@@ -14,3 +14,10 @@
         <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SmileAlways1125&layout=compact&langs_count=10&theme=dark"/>
     </a>
 </p>
+
+<p align="left">
+  <a href="https://dthiwanka.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SmileAlways1125&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SmileAlways1125&theme=dark&hide_border=true" />
+  </a>
+</p>
