@@ -11,8 +11,7 @@
 
 <p align="left">
   <a href="https://dthiwanka.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SmileAlways1125&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SmileAlways1125&theme=dark&hide_border=true" /> -->
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SmileAlways1125&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileAlways1125&langs_count=8&layout=compact&theme=dark&hide_border=true" />
   </a>
 </p>
